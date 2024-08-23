@@ -2,5 +2,10 @@
 // console.log(spec);
 
  let numberOfCats = prompt("How many cats?");
- let tooManyCats = numberOfCats + 1;
+ let tooManyCats;
+ 
+
+ console.log(numberofCats);
+
+
 
