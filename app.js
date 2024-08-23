@@ -3,9 +3,9 @@
 
  let numberOfCats = prompt("How many cats?");
  let tooManyCats;
- 
 
- console.log(numberofCats);
+
+ console.log(tooManyCats);
 
 
 
